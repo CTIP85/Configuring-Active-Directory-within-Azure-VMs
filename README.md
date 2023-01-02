@@ -59,7 +59,7 @@ After the domain join process is complete, you will be able to use AAD DS to aut
 <br />
 
 <p>
-<img src="https://i.imgur.com/FmVUd3D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BZ2dY9t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
